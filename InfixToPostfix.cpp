@@ -1,18 +1,3 @@
-Kris Vanga
-Dan Ross
-CISP430
-HW 5.42 
-3/1/18
-
-
-
-
-
-
-
-
-
-
 /*
   Infix to postfix conversion and evaluation in C++
   Input Postfix expression must be in a desired format.
